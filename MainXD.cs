@@ -5,7 +5,6 @@ namespace rickfunny
 {
     public class Class : MelonMod
     {
-        // Sponsored by Deez
         // Original troll mod was by Boppr#0001 but he said I could make my own
         public override void OnApplicationStart()
         {
